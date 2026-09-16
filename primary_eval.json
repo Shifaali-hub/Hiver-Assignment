@@ -1,0 +1,8 @@
+{
+    "tweet_id": "G2000",
+    "primary_output": {
+        "intent_prediction": "Escalation Trigger",
+        "generated_reply": "I apologize for the frustration. A manager will contact you.",
+        "escalation_flag": "Escalate: Legal threat detected"
+    }
+}

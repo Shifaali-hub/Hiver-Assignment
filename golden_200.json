@@ -1,0 +1,1402 @@
+[
+    {
+        "tweet_id": "G2000",
+        "text": "@AppleSupport my device is crashing and I need help - ID 0",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2001",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 1",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2002",
+        "text": "@AppleSupport I will sue and take this to court! - ID 2",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2003",
+        "text": "@AppleSupport neutral tweet about a product - ID 3",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2004",
+        "text": "@AppleSupport my device is crashing and I need help - ID 4",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2005",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 5",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2006",
+        "text": "@AppleSupport I will sue and take this to court! - ID 6",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2007",
+        "text": "@AppleSupport neutral tweet about a product - ID 7",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2008",
+        "text": "@AppleSupport my device is crashing and I need help - ID 8",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2009",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 9",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2010",
+        "text": "@AppleSupport I will sue and take this to court! - ID 10",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2011",
+        "text": "@AppleSupport neutral tweet about a product - ID 11",
+        "true_intent": "Other",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2012",
+        "text": "@AppleSupport my device is crashing and I need help - ID 12",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2013",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 13",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2014",
+        "text": "@AppleSupport I will sue and take this to court! - ID 14",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2015",
+        "text": "@AppleSupport neutral tweet about a product - ID 15",
+        "true_intent": "Other",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2016",
+        "text": "@AppleSupport my device is crashing and I need help - ID 16",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2017",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 17",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2018",
+        "text": "@AppleSupport I will sue and take this to court! - ID 18",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2019",
+        "text": "@AppleSupport neutral tweet about a product - ID 19",
+        "true_intent": "Other",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2020",
+        "text": "@AppleSupport my device is crashing and I need help - ID 20",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2021",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 21",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2022",
+        "text": "@AppleSupport I will sue and take this to court! - ID 22",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2023",
+        "text": "@AppleSupport neutral tweet about a product - ID 23",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2024",
+        "text": "@AppleSupport my device is crashing and I need help - ID 24",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2025",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 25",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2026",
+        "text": "@AppleSupport I will sue and take this to court! - ID 26",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2027",
+        "text": "@AppleSupport neutral tweet about a product - ID 27",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2028",
+        "text": "@AppleSupport my device is crashing and I need help - ID 28",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2029",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 29",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2030",
+        "text": "@AppleSupport I will sue and take this to court! - ID 30",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2031",
+        "text": "@AppleSupport neutral tweet about a product - ID 31",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2032",
+        "text": "@AppleSupport my device is crashing and I need help - ID 32",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2033",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 33",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2034",
+        "text": "@AppleSupport I will sue and take this to court! - ID 34",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2035",
+        "text": "@AppleSupport neutral tweet about a product - ID 35",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2036",
+        "text": "@AppleSupport my device is crashing and I need help - ID 36",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2037",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 37",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2038",
+        "text": "@AppleSupport I will sue and take this to court! - ID 38",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2039",
+        "text": "@AppleSupport neutral tweet about a product - ID 39",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2040",
+        "text": "@AppleSupport my device is crashing and I need help - ID 40",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2041",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 41",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2042",
+        "text": "@AppleSupport I will sue and take this to court! - ID 42",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2043",
+        "text": "@AppleSupport neutral tweet about a product - ID 43",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2044",
+        "text": "@AppleSupport my device is crashing and I need help - ID 44",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2045",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 45",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2046",
+        "text": "@AppleSupport I will sue and take this to court! - ID 46",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2047",
+        "text": "@AppleSupport neutral tweet about a product - ID 47",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2048",
+        "text": "@AppleSupport my device is crashing and I need help - ID 48",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2049",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 49",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2050",
+        "text": "@AppleSupport I will sue and take this to court! - ID 50",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2051",
+        "text": "@AppleSupport neutral tweet about a product - ID 51",
+        "true_intent": "Other",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2052",
+        "text": "@AppleSupport my device is crashing and I need help - ID 52",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2053",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 53",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2054",
+        "text": "@AppleSupport I will sue and take this to court! - ID 54",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2055",
+        "text": "@AppleSupport neutral tweet about a product - ID 55",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2056",
+        "text": "@AppleSupport my device is crashing and I need help - ID 56",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2057",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 57",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2058",
+        "text": "@AppleSupport I will sue and take this to court! - ID 58",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2059",
+        "text": "@AppleSupport neutral tweet about a product - ID 59",
+        "true_intent": "Other",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2060",
+        "text": "@AppleSupport my device is crashing and I need help - ID 60",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2061",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 61",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2062",
+        "text": "@AppleSupport I will sue and take this to court! - ID 62",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2063",
+        "text": "@AppleSupport neutral tweet about a product - ID 63",
+        "true_intent": "Other",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2064",
+        "text": "@AppleSupport my device is crashing and I need help - ID 64",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2065",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 65",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2066",
+        "text": "@AppleSupport I will sue and take this to court! - ID 66",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2067",
+        "text": "@AppleSupport neutral tweet about a product - ID 67",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2068",
+        "text": "@AppleSupport my device is crashing and I need help - ID 68",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2069",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 69",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2070",
+        "text": "@AppleSupport I will sue and take this to court! - ID 70",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2071",
+        "text": "@AppleSupport neutral tweet about a product - ID 71",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2072",
+        "text": "@AppleSupport my device is crashing and I need help - ID 72",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2073",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 73",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2074",
+        "text": "@AppleSupport I will sue and take this to court! - ID 74",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2075",
+        "text": "@AppleSupport neutral tweet about a product - ID 75",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2076",
+        "text": "@AppleSupport my device is crashing and I need help - ID 76",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2077",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 77",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2078",
+        "text": "@AppleSupport I will sue and take this to court! - ID 78",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2079",
+        "text": "@AppleSupport neutral tweet about a product - ID 79",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2080",
+        "text": "@AppleSupport my device is crashing and I need help - ID 80",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2081",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 81",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2082",
+        "text": "@AppleSupport I will sue and take this to court! - ID 82",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2083",
+        "text": "@AppleSupport neutral tweet about a product - ID 83",
+        "true_intent": "Other",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2084",
+        "text": "@AppleSupport my device is crashing and I need help - ID 84",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2085",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 85",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2086",
+        "text": "@AppleSupport I will sue and take this to court! - ID 86",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2087",
+        "text": "@AppleSupport neutral tweet about a product - ID 87",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2088",
+        "text": "@AppleSupport my device is crashing and I need help - ID 88",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2089",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 89",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2090",
+        "text": "@AppleSupport I will sue and take this to court! - ID 90",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2091",
+        "text": "@AppleSupport neutral tweet about a product - ID 91",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2092",
+        "text": "@AppleSupport my device is crashing and I need help - ID 92",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2093",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 93",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2094",
+        "text": "@AppleSupport I will sue and take this to court! - ID 94",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2095",
+        "text": "@AppleSupport neutral tweet about a product - ID 95",
+        "true_intent": "Other",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2096",
+        "text": "@AppleSupport my device is crashing and I need help - ID 96",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2097",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 97",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2098",
+        "text": "@AppleSupport I will sue and take this to court! - ID 98",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2099",
+        "text": "@AppleSupport neutral tweet about a product - ID 99",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2100",
+        "text": "@AppleSupport my device is crashing and I need help - ID 100",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2101",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 101",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2102",
+        "text": "@AppleSupport I will sue and take this to court! - ID 102",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2103",
+        "text": "@AppleSupport neutral tweet about a product - ID 103",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2104",
+        "text": "@AppleSupport my device is crashing and I need help - ID 104",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2105",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 105",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2106",
+        "text": "@AppleSupport I will sue and take this to court! - ID 106",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2107",
+        "text": "@AppleSupport neutral tweet about a product - ID 107",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2108",
+        "text": "@AppleSupport my device is crashing and I need help - ID 108",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2109",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 109",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2110",
+        "text": "@AppleSupport I will sue and take this to court! - ID 110",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2111",
+        "text": "@AppleSupport neutral tweet about a product - ID 111",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2112",
+        "text": "@AppleSupport my device is crashing and I need help - ID 112",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2113",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 113",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2114",
+        "text": "@AppleSupport I will sue and take this to court! - ID 114",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2115",
+        "text": "@AppleSupport neutral tweet about a product - ID 115",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2116",
+        "text": "@AppleSupport my device is crashing and I need help - ID 116",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2117",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 117",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2118",
+        "text": "@AppleSupport I will sue and take this to court! - ID 118",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2119",
+        "text": "@AppleSupport neutral tweet about a product - ID 119",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2120",
+        "text": "@AppleSupport my device is crashing and I need help - ID 120",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2121",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 121",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2122",
+        "text": "@AppleSupport I will sue and take this to court! - ID 122",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2123",
+        "text": "@AppleSupport neutral tweet about a product - ID 123",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2124",
+        "text": "@AppleSupport my device is crashing and I need help - ID 124",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2125",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 125",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2126",
+        "text": "@AppleSupport I will sue and take this to court! - ID 126",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2127",
+        "text": "@AppleSupport neutral tweet about a product - ID 127",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2128",
+        "text": "@AppleSupport my device is crashing and I need help - ID 128",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2129",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 129",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2130",
+        "text": "@AppleSupport I will sue and take this to court! - ID 130",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2131",
+        "text": "@AppleSupport neutral tweet about a product - ID 131",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2132",
+        "text": "@AppleSupport my device is crashing and I need help - ID 132",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2133",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 133",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2134",
+        "text": "@AppleSupport I will sue and take this to court! - ID 134",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2135",
+        "text": "@AppleSupport neutral tweet about a product - ID 135",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2136",
+        "text": "@AppleSupport my device is crashing and I need help - ID 136",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2137",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 137",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2138",
+        "text": "@AppleSupport I will sue and take this to court! - ID 138",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2139",
+        "text": "@AppleSupport neutral tweet about a product - ID 139",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2140",
+        "text": "@AppleSupport my device is crashing and I need help - ID 140",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2141",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 141",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2142",
+        "text": "@AppleSupport I will sue and take this to court! - ID 142",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2143",
+        "text": "@AppleSupport neutral tweet about a product - ID 143",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2144",
+        "text": "@AppleSupport my device is crashing and I need help - ID 144",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2145",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 145",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2146",
+        "text": "@AppleSupport I will sue and take this to court! - ID 146",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2147",
+        "text": "@AppleSupport neutral tweet about a product - ID 147",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2148",
+        "text": "@AppleSupport my device is crashing and I need help - ID 148",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2149",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 149",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2150",
+        "text": "@AppleSupport I will sue and take this to court! - ID 150",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2151",
+        "text": "@AppleSupport neutral tweet about a product - ID 151",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2152",
+        "text": "@AppleSupport my device is crashing and I need help - ID 152",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2153",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 153",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2154",
+        "text": "@AppleSupport I will sue and take this to court! - ID 154",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2155",
+        "text": "@AppleSupport neutral tweet about a product - ID 155",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2156",
+        "text": "@AppleSupport my device is crashing and I need help - ID 156",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2157",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 157",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2158",
+        "text": "@AppleSupport I will sue and take this to court! - ID 158",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2159",
+        "text": "@AppleSupport neutral tweet about a product - ID 159",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2160",
+        "text": "@AppleSupport my device is crashing and I need help - ID 160",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2161",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 161",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2162",
+        "text": "@AppleSupport I will sue and take this to court! - ID 162",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2163",
+        "text": "@AppleSupport neutral tweet about a product - ID 163",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2164",
+        "text": "@AppleSupport my device is crashing and I need help - ID 164",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2165",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 165",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2166",
+        "text": "@AppleSupport I will sue and take this to court! - ID 166",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2167",
+        "text": "@AppleSupport neutral tweet about a product - ID 167",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2168",
+        "text": "@AppleSupport my device is crashing and I need help - ID 168",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2169",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 169",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2170",
+        "text": "@AppleSupport I will sue and take this to court! - ID 170",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2171",
+        "text": "@AppleSupport neutral tweet about a product - ID 171",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2172",
+        "text": "@AppleSupport my device is crashing and I need help - ID 172",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2173",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 173",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2174",
+        "text": "@AppleSupport I will sue and take this to court! - ID 174",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2175",
+        "text": "@AppleSupport neutral tweet about a product - ID 175",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2176",
+        "text": "@AppleSupport my device is crashing and I need help - ID 176",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2177",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 177",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2178",
+        "text": "@AppleSupport I will sue and take this to court! - ID 178",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2179",
+        "text": "@AppleSupport neutral tweet about a product - ID 179",
+        "true_intent": "Other",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2180",
+        "text": "@AppleSupport my device is crashing and I need help - ID 180",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2181",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 181",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2182",
+        "text": "@AppleSupport I will sue and take this to court! - ID 182",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2183",
+        "text": "@AppleSupport neutral tweet about a product - ID 183",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2184",
+        "text": "@AppleSupport my device is crashing and I need help - ID 184",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2185",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 185",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2186",
+        "text": "@AppleSupport I will sue and take this to court! - ID 186",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2187",
+        "text": "@AppleSupport neutral tweet about a product - ID 187",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2188",
+        "text": "@AppleSupport my device is crashing and I need help - ID 188",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2189",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 189",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2190",
+        "text": "@AppleSupport I will sue and take this to court! - ID 190",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2191",
+        "text": "@AppleSupport neutral tweet about a product - ID 191",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2192",
+        "text": "@AppleSupport my device is crashing and I need help - ID 192",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Account Issue / Technical Support",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2193",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 193",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2194",
+        "text": "@AppleSupport I will sue and take this to court! - ID 194",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2195",
+        "text": "@AppleSupport neutral tweet about a product - ID 195",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2196",
+        "text": "@AppleSupport my device is crashing and I need help - ID 196",
+        "true_intent": "Account Issue / Technical Support",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2197",
+        "text": "@AppleSupport I was charged wrongly for an app - ID 197",
+        "true_intent": "Billing / Refund",
+        "annotator_2_intent": "Billing / Refund",
+        "should_escalate": false
+    },
+    {
+        "tweet_id": "G2198",
+        "text": "@AppleSupport I will sue and take this to court! - ID 198",
+        "true_intent": "Escalation Trigger",
+        "annotator_2_intent": "Escalation Trigger",
+        "should_escalate": true
+    },
+    {
+        "tweet_id": "G2199",
+        "text": "@AppleSupport neutral tweet about a product - ID 199",
+        "true_intent": "Other",
+        "annotator_2_intent": "Other",
+        "should_escalate": false
+    }
+]

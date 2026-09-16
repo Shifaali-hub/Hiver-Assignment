@@ -1,0 +1,501 @@
+tweet_id,text,true_intent
+T1000,@AppleSupport when is the new update coming out?,Other
+T1001,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1002,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1003,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1004,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1005,@AppleSupport when is the new update coming out?,Other
+T1006,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1007,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1008,@AppleSupport when is the new update coming out?,Other
+T1009,@AppleSupport when is the new update coming out?,Other
+T1010,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1011,@AppleSupport when is the new update coming out?,Other
+T1012,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1013,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1014,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1015,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1016,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1017,@AppleSupport when is the new update coming out?,Other
+T1018,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1019,@AppleSupport when is the new update coming out?,Other
+T1020,@AppleSupport when is the new update coming out?,Other
+T1021,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1022,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1023,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1024,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1025,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1026,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1027,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1028,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1029,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1030,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1031,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1032,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1033,@AppleSupport when is the new update coming out?,Other
+T1034,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1035,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1036,@AppleSupport when is the new update coming out?,Other
+T1037,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1038,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1039,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1040,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1041,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1042,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1043,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1044,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1045,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1046,@AppleSupport when is the new update coming out?,Other
+T1047,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1048,@AppleSupport when is the new update coming out?,Other
+T1049,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1050,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1051,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1052,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1053,@AppleSupport when is the new update coming out?,Other
+T1054,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1055,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1056,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1057,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1058,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1059,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1060,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1061,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1062,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1063,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1064,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1065,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1066,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1067,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1068,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1069,@AppleSupport when is the new update coming out?,Other
+T1070,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1071,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1072,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1073,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1074,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1075,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1076,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1077,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1078,@AppleSupport when is the new update coming out?,Other
+T1079,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1080,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1081,@AppleSupport when is the new update coming out?,Other
+T1082,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1083,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1084,@AppleSupport when is the new update coming out?,Other
+T1085,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1086,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1087,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1088,@AppleSupport when is the new update coming out?,Other
+T1089,@AppleSupport when is the new update coming out?,Other
+T1090,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1091,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1092,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1093,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1094,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1095,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1096,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1097,@AppleSupport when is the new update coming out?,Other
+T1098,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1099,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1100,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1101,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1102,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1103,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1104,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1105,@AppleSupport when is the new update coming out?,Other
+T1106,@AppleSupport when is the new update coming out?,Other
+T1107,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1108,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1109,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1110,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1111,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1112,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1113,@AppleSupport when is the new update coming out?,Other
+T1114,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1115,@AppleSupport when is the new update coming out?,Other
+T1116,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1117,@AppleSupport when is the new update coming out?,Other
+T1118,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1119,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1120,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1121,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1122,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1123,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1124,@AppleSupport when is the new update coming out?,Other
+T1125,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1126,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1127,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1128,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1129,@AppleSupport when is the new update coming out?,Other
+T1130,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1131,@AppleSupport when is the new update coming out?,Other
+T1132,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1133,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1134,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1135,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1136,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1137,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1138,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1139,@AppleSupport when is the new update coming out?,Other
+T1140,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1141,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1142,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1143,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1144,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1145,@AppleSupport when is the new update coming out?,Other
+T1146,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1147,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1148,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1149,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1150,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1151,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1152,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1153,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1154,@AppleSupport when is the new update coming out?,Other
+T1155,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1156,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1157,@AppleSupport when is the new update coming out?,Other
+T1158,@AppleSupport when is the new update coming out?,Other
+T1159,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1160,@AppleSupport when is the new update coming out?,Other
+T1161,@AppleSupport when is the new update coming out?,Other
+T1162,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1163,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1164,@AppleSupport when is the new update coming out?,Other
+T1165,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1166,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1167,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1168,@AppleSupport when is the new update coming out?,Other
+T1169,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1170,@AppleSupport when is the new update coming out?,Other
+T1171,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1172,@AppleSupport when is the new update coming out?,Other
+T1173,@AppleSupport when is the new update coming out?,Other
+T1174,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1175,@AppleSupport when is the new update coming out?,Other
+T1176,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1177,@AppleSupport when is the new update coming out?,Other
+T1178,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1179,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1180,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1181,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1182,@AppleSupport when is the new update coming out?,Other
+T1183,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1184,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1185,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1186,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1187,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1188,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1189,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1190,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1191,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1192,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1193,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1194,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1195,@AppleSupport when is the new update coming out?,Other
+T1196,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1197,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1198,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1199,@AppleSupport when is the new update coming out?,Other
+T1200,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1201,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1202,@AppleSupport when is the new update coming out?,Other
+T1203,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1204,@AppleSupport when is the new update coming out?,Other
+T1205,@AppleSupport when is the new update coming out?,Other
+T1206,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1207,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1208,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1209,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1210,@AppleSupport when is the new update coming out?,Other
+T1211,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1212,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1213,@AppleSupport when is the new update coming out?,Other
+T1214,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1215,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1216,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1217,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1218,@AppleSupport when is the new update coming out?,Other
+T1219,@AppleSupport when is the new update coming out?,Other
+T1220,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1221,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1222,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1223,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1224,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1225,@AppleSupport when is the new update coming out?,Other
+T1226,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1227,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1228,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1229,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1230,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1231,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1232,@AppleSupport when is the new update coming out?,Other
+T1233,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1234,@AppleSupport when is the new update coming out?,Other
+T1235,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1236,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1237,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1238,@AppleSupport when is the new update coming out?,Other
+T1239,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1240,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1241,@AppleSupport when is the new update coming out?,Other
+T1242,@AppleSupport when is the new update coming out?,Other
+T1243,@AppleSupport when is the new update coming out?,Other
+T1244,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1245,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1246,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1247,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1248,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1249,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1250,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1251,@AppleSupport when is the new update coming out?,Other
+T1252,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1253,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1254,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1255,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1256,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1257,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1258,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1259,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1260,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1261,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1262,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1263,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1264,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1265,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1266,@AppleSupport when is the new update coming out?,Other
+T1267,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1268,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1269,@AppleSupport when is the new update coming out?,Other
+T1270,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1271,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1272,@AppleSupport when is the new update coming out?,Other
+T1273,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1274,@AppleSupport when is the new update coming out?,Other
+T1275,@AppleSupport when is the new update coming out?,Other
+T1276,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1277,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1278,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1279,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1280,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1281,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1282,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1283,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1284,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1285,@AppleSupport when is the new update coming out?,Other
+T1286,@AppleSupport when is the new update coming out?,Other
+T1287,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1288,@AppleSupport when is the new update coming out?,Other
+T1289,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1290,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1291,@AppleSupport when is the new update coming out?,Other
+T1292,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1293,@AppleSupport when is the new update coming out?,Other
+T1294,@AppleSupport when is the new update coming out?,Other
+T1295,@AppleSupport when is the new update coming out?,Other
+T1296,@AppleSupport when is the new update coming out?,Other
+T1297,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1298,@AppleSupport when is the new update coming out?,Other
+T1299,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1300,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1301,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1302,@AppleSupport when is the new update coming out?,Other
+T1303,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1304,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1305,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1306,@AppleSupport when is the new update coming out?,Other
+T1307,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1308,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1309,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1310,@AppleSupport when is the new update coming out?,Other
+T1311,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1312,@AppleSupport when is the new update coming out?,Other
+T1313,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1314,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1315,@AppleSupport when is the new update coming out?,Other
+T1316,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1317,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1318,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1319,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1320,@AppleSupport when is the new update coming out?,Other
+T1321,@AppleSupport when is the new update coming out?,Other
+T1322,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1323,@AppleSupport when is the new update coming out?,Other
+T1324,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1325,@AppleSupport when is the new update coming out?,Other
+T1326,@AppleSupport when is the new update coming out?,Other
+T1327,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1328,@AppleSupport when is the new update coming out?,Other
+T1329,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1330,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1331,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1332,@AppleSupport when is the new update coming out?,Other
+T1333,@AppleSupport when is the new update coming out?,Other
+T1334,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1335,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1336,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1337,@AppleSupport when is the new update coming out?,Other
+T1338,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1339,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1340,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1341,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1342,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1343,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1344,@AppleSupport when is the new update coming out?,Other
+T1345,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1346,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1347,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1348,@AppleSupport when is the new update coming out?,Other
+T1349,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1350,@AppleSupport when is the new update coming out?,Other
+T1351,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1352,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1353,@AppleSupport when is the new update coming out?,Other
+T1354,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1355,@AppleSupport when is the new update coming out?,Other
+T1356,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1357,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1358,@AppleSupport when is the new update coming out?,Other
+T1359,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1360,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1361,@AppleSupport when is the new update coming out?,Other
+T1362,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1363,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1364,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1365,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1366,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1367,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1368,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1369,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1370,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1371,@AppleSupport when is the new update coming out?,Other
+T1372,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1373,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1374,@AppleSupport when is the new update coming out?,Other
+T1375,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1376,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1377,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1378,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1379,@AppleSupport when is the new update coming out?,Other
+T1380,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1381,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1382,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1383,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1384,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1385,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1386,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1387,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1388,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1389,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1390,@AppleSupport when is the new update coming out?,Other
+T1391,@AppleSupport when is the new update coming out?,Other
+T1392,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1393,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1394,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1395,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1396,@AppleSupport when is the new update coming out?,Other
+T1397,@AppleSupport when is the new update coming out?,Other
+T1398,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1399,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1400,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1401,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1402,@AppleSupport when is the new update coming out?,Other
+T1403,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1404,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1405,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1406,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1407,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1408,@AppleSupport when is the new update coming out?,Other
+T1409,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1410,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1411,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1412,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1413,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1414,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1415,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1416,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1417,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1418,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1419,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1420,@AppleSupport when is the new update coming out?,Other
+T1421,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1422,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1423,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1424,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1425,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1426,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1427,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1428,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1429,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1430,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1431,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1432,@AppleSupport when is the new update coming out?,Other
+T1433,@AppleSupport when is the new update coming out?,Other
+T1434,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1435,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1436,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1437,@AppleSupport when is the new update coming out?,Other
+T1438,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1439,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1440,@AppleSupport when is the new update coming out?,Other
+T1441,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1442,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1443,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1444,@AppleSupport when is the new update coming out?,Other
+T1445,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1446,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1447,@AppleSupport when is the new update coming out?,Other
+T1448,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1449,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1450,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1451,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1452,@AppleSupport when is the new update coming out?,Other
+T1453,@AppleSupport when is the new update coming out?,Other
+T1454,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1455,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1456,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1457,@AppleSupport when is the new update coming out?,Other
+T1458,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1459,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1460,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1461,@AppleSupport when is the new update coming out?,Other
+T1462,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1463,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1464,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1465,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1466,@AppleSupport when is the new update coming out?,Other
+T1467,@AppleSupport when is the new update coming out?,Other
+T1468,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1469,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1470,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1471,@AppleSupport when is the new update coming out?,Other
+T1472,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1473,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1474,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1475,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1476,@AppleSupport when is the new update coming out?,Other
+T1477,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1478,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1479,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1480,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1481,@AppleSupport when is the new update coming out?,Other
+T1482,@AppleSupport my MacBook is crashing.,Account Issue / Technical Support
+T1483,@AppleSupport my iPhone is crashing.,Account Issue / Technical Support
+T1484,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1485,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1486,@AppleSupport when is the new update coming out?,Other
+T1487,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1488,@AppleSupport when is the new update coming out?,Other
+T1489,@AppleSupport I got charged twice for my subscription.,Billing / Refund
+T1490,@AppleSupport my iPhone is not turning on.,Account Issue / Technical Support
+T1491,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1492,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1493,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1494,@AppleSupport I'm taking this to court if you don't fix this immediately.,Escalation Trigger
+T1495,@AppleSupport my MacBook is not turning on.,Account Issue / Technical Support
+T1496,@AppleSupport when is the new update coming out?,Other
+T1497,@AppleSupport I got charged wrongly for my subscription.,Billing / Refund
+T1498,@AppleSupport when is the new update coming out?,Other
+T1499,@AppleSupport I got charged twice for my subscription.,Billing / Refund
